@@ -1,0 +1,10 @@
+Gas Systems Addon created by Syncaidius.
+
+Credits
+=============================
+Thanks to:
+
+Pegasus(KW/duckordie) - small processed gas tank model
+Killers2 - Testing the alpha version on his SB server before release.
+Snakesvx - Helping with some of the CAF/LS3 stuff in gas systems.
+MoSs - Testing V1.2 and V1.3 on his server.

@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"				"Gas Systems 3"
+	"version"			"3.2"
+	"up_date"			"27th June 2014"
+	"author_name"			"Rouing"
+	"author_email"			"w.rouing@gmail.com"
+	"author_url"			""
+	"info"				"Update to SB3"
+}
