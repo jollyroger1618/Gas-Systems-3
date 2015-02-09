@@ -54,7 +54,7 @@ function ENT:Initialize()
 end
 
 function ENT:Setup()
-	self.Entity:SetColor(255, 255, 255, 255)
+	self.Entity:SetColor(Color(255, 255, 255, 255))
 	self:TriggerInput("On", 0)
 	self:TriggerInput("Overdrive", 0)
 end
